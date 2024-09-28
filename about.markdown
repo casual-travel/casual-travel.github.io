@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+來自香港的雙職父母，希望趁着假期，與女兒探索世界，一步一腳印👣  
+  
+還記得我在準備婚禮播放的成長片段中，找到在不同國家的家庭旅遊合照：兩歲與父母到富士山、十歲在北海道滑雪的跌跌碰碰、十多歲時首次坐長途機去歐洲✈️⋯⋯這些時光充滿家人的愛及陪伴，亦令我有帶女兒們一同旅遊的勇氣💗  
+  
+我的首個親子旅遊在2022年12月（疫情後），當時懷着二寶，與丈夫及大寶一起飛大阪。我買了大阪周遊卡，編排了一個又一個景點。我經歷大囡要抱著才入睡，一放到嬰兒車便哭泣，我們抱著她、在景點門前坐著休息，結果當然沒法回本💸。親子旅行充滿變數，但每個當下都格外珍貴。  
+  
+二寶出生後，一家四口一同旅遊準備的事更多，亦有更多突發的狀況。熱愛旅遊的我們分別走訪沖繩、福崗、熊本、台北、高雄、首爾等地，當中累積了一些經驗及小技巧。希望在此推薦CP值高的親子景點及餐廳、必買好物🛍️  
+  
+2024年9月  
+to be continued… 🛬  
